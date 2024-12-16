@@ -27,7 +27,7 @@ educational_files_paths = [
     r"C:\Users\dell\Documents\sirawcv\Siraw_Documents.pdf",
 ]
 portfolio_image_path = r"C:\Users\dell\Documents\sirawcv\portfolio_screenshot.png"
-project_video_path = r"C:\Users\dell\Documents\sirawcv\project_demo_video.mp4"
+# project_video_path = r"C:\Users\dell\Documents\sirawcv\project_demo_video.mp4"
 
 # Start Command
 @bot.message_handler(commands=["start"])
